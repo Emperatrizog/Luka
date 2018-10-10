@@ -31,7 +31,7 @@ body{
   line-height:  2.6875rem;
   margin-left: 3.125rem;
   text-align: left;
-  font-weight: 700;
+  font-weight: 500;
 }
 @media (max-width: 100rem) and (min-width:9.375rem) {
   .title1 {
@@ -180,7 +180,7 @@ margin-left: 5%;
       font-size: 2.2rem;
       line-height: 2.6875rem;
       margin-left: 6.25rem;
-      font-weight: 700;
+      font-weight: 500;
     }
     @media (max-width: 100rem) and (min-width:9.375rem) {
       .title3 {
@@ -294,7 +294,7 @@ margin-left: 5%;
     font-family: rubik;
     line-height: 48px;
     width: auto;
-    font-weight: 700;
+    font-weight: 500;
 
   }
 
