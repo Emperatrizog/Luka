@@ -13,7 +13,7 @@ body{
 
 }
 .textalign{
-  font-family: Rubik;
+  font-family: 'Rubik', sans-serif;
   font-size: 1.25rem;
   line-height: 1.5rem;
   text-align: center;
@@ -25,7 +25,7 @@ body{
   height:8.0625rem;
   width: 30.875rem;
   color: #5F5F5F;
-  font-family: Rubik;
+  font-family: 'Rubik', sans-serif;
   font-size: 2.2rem;
   line-height:  2.6875rem;
   margin-left: 3.125rem;
@@ -43,7 +43,7 @@ body{
   height: 3.625rem;
   width: 29.5625rem;
   color: #828282;
-  font-family: Rubik;
+  font-family: 'Rubik', sans-serif;
   font-size: 1.2rem;
   line-height: 1.8125rem;
   /* margin-top: 12%; */
@@ -78,7 +78,7 @@ body{
 .comenzar{
   	height: 1.8125rem;
     color: #FFFFFF;
-    font-family: Rubik;
+    font-family: 'Rubik', sans-serif;
     font-size: 1.5625rem;
     text-align: center;
 }
@@ -105,7 +105,7 @@ body{
   height: 8.0625rem;
   width: 24.375rem;
   color: #5F5F5F;
-  font-family: Rubik;
+  font-family: 'Rubik', sans-serif;
   font-size: 2.2rem;
   line-height:  2.6875rem;
   margin-left: 5%;
@@ -123,7 +123,7 @@ body{
 height: 8.0625rem;
 width: 23.8125rem;
 color: #828282;
-font-family: Rubik;
+font-family: 'Rubik', sans-serif;
 font-size: 1.2rem;
 line-height: 1.8125rem;
 margin-top: 5%;
@@ -171,7 +171,7 @@ margin-left: 5%;
       height: 8.0625rem;
       width: 25.1875rem;
       color: #5F5F5F;
-      font-family: Rubik;
+      font-family: 'Rubik', sans-serif;
       font-size: 2.2rem;
       line-height: 2.6875rem;
       margin-left: 6.25rem;
@@ -188,7 +188,7 @@ margin-left: 5%;
       height:5rem;
       width: 23.5rem;
       color: #828282;
-      font-family: Rubik;
+      font-family: 'Rubik', sans-serif;
       font-size: 1.2rem;
       line-height: 1.8125rem;
       margin-top: 5%;
@@ -237,7 +237,7 @@ margin-left: 5%;
 
       .cont4{
         color: #5F5F5F;
-        font-family: Rubik;
+        font-family: 'Rubik', sans-serif;
         font-size: 36px;
         line-height: 48px;
         text-align: center;
@@ -303,7 +303,7 @@ margin-left: 5%;
    width: 236px;
    font-size: 14px;
    color: #828282;
-   font-family: rubik;
+   font-family: 'Rubik', sans-serif;
    line-height: 26px;
  }
    @media (max-width: 100rem) and (min-width:9.375rem) {
@@ -335,7 +335,7 @@ margin-left: 5%;
 
   .duda{
       color: #FFFFFF;
-      font-family: Rubik;
+      font-family: 'Rubik', sans-serif;
       font-size: 24px;
       line-height: 35px;
   }
@@ -343,7 +343,7 @@ margin-left: 5%;
 
   .habla{
     color: #FFFFFF;
-    font-family: Rubik;
+    font-family: 'Rubik', sans-serif;
     font-size: 15px;
     line-height: 26px;
     margin-top: 8%
@@ -351,14 +351,14 @@ margin-left: 5%;
 
   .terminos{
     color: #FFFFFF;
-    font-family: Rubik;
+    font-family: 'Rubik', sans-serif;
     font-size: 15px;
     margin-top: 8%;
   }
 
   .luka{
     color: #FFFFFF;
-    font-family: Rubik;
+    font-family: 'Rubik', sans-serif;
     font-size: 15px;
     line-height: 26px;
     margin-top: 8%;
@@ -366,7 +366,7 @@ margin-left: 5%;
 
   .suscribete{
       color: #FFFFFF;
-      font-family: Rubik;
+      font-family: 'Rubik', sans-serif;
       font-size: 24px;
       line-height: 35px;
   }
@@ -380,7 +380,7 @@ margin-left: 5%;
 
   .Enviaremos{
       color: #FFFFFF;
-      font-family: Rubik;
+      font-family: 'Rubik', sans-serif;
       font-size: 15px;
       line-height: 26px;
       margin-top: 8%;
@@ -402,7 +402,7 @@ margin-left: 5%;
 
   .cribete{
     	color: #00A8FF;
-      font-family: Rubik;
+      font-family: 'Rubik', sans-serif;
       font-size: 14px;
       text-align: center;
   }
